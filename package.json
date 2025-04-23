@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/camelCalm/frontend-project-11/issues"
   },
-  "homepage": "https://github.com/camelCalm/frontend-project-11#readme"
+  "homepage": "https://github.com/camelCalm/frontend-project-11#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
